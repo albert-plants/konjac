@@ -1,8 +1,8 @@
-# konjac plants
+# konjac plant
 
 ## What is it
 
-Amorphophallus konjac is a smaller relative of the giant corpse flower (Arum titanum). It makes a single leaf a year that lasts from May to roughly November. The underground corm doubles in size each year and will produce a bloom when it reaches softball size. It makes an interesting desk plant with the leopard patterned "stem".
+The konjac (Amorphophallus konjac) is a smaller relative of the giant corpse flower (Arum titanum). It makes a single leaf a year that lasts from May to roughly November. The underground corm doubles in size each year and will produce a bloom when it reaches softball size. It makes an interesting desk plant with the leopard patterned "stem".
 
 ## Contents
 
@@ -16,13 +16,14 @@ Amorphophallus konjac is a smaller relative of the giant corpse flower (Arum tit
 - bright indoor light
 - water about once a week
 
-## Initial steps
+## One-time initial steps
 
 1. unwrap the inner pot
 1. place the inner pot inside the outer pot
-1. soak the potting mediium throughly
-    1. may need to loosen the medium
-    1. pour any solid runoff back into the inner pot
+1. soak the potting medium throughly
+    1. may need to loosen the medium so that water can reach the inside
+    1. may need to reposition the corm to the center of the pot if it falls out
+    1. may need to pour any solids back into the inner pot
 
 ## FAQ
 
