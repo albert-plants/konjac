@@ -1,4 +1,4 @@
-# konjac plant
+# Konjac plant
 
 ## What is it
 
@@ -6,9 +6,9 @@ The konjac (Amorphophallus konjac) is a smaller relative of the giant corpse flo
 
 ## Contents
 
-- small inner pot in plastic wrap
-    - konjac corm
+- small inner pot in wrapped in plastic
     - soiless potting medium (peat and perlite)
+    - konjac corm (in the center under the soil)
 - larger outer pot (to hold any runoff)
 
 ## Basic needs
@@ -27,8 +27,10 @@ The konjac (Amorphophallus konjac) is a smaller relative of the giant corpse flo
 
 ## FAQ
 
+- How big does it get?
+  - The small corm will grow to a couple inches tall. Once it uses up all the nutrients in the corm, the growth will stop and it will start storing up for a new corm.
 - What's this liquid dripping from the leaf tips?
-  - It's a process called guttation, which transports water through the plant to keep it rigid. Excess water gets expelled at the leaf tips.
+  - It's a process called guttation, which transports water through the plant to keep it rigid and upright. Excess water gets expelled at the leaf tips. This mainly happens at night.
 - When to reduce watering?
   - Reduce watering when the leaf reaches full size. The potting mix is lightweight when dry and allows you to feel how much water is in it.
 - When to stop watering?
@@ -36,3 +38,4 @@ The konjac (Amorphophallus konjac) is a smaller relative of the giant corpse flo
 - What happens after?
   - Store the corm either in the dry soil or in a cool dry place for next season. It will start growing once the weather warms up.
   - Use a pot roughly 3x the width of the corm to allow room for roots and growth.
+  - Large corms will produce more little ones.
