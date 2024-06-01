@@ -21,7 +21,7 @@ The konjac (Amorphophallus konjac) is a smaller relative of the giant corpse flo
 1. unwrap the inner pot
 1. place the inner pot inside the outer pot
 1. soak the potting medium throughly
-    1. may need to loosen the medium so that water can reach the inside
+    1. may need to loosen the medium if it doesn't soak up the water in a long time
     1. may need to reposition the corm to the center of the pot if it falls out
     1. may need to pour any solids back into the inner pot
 
@@ -29,6 +29,8 @@ The konjac (Amorphophallus konjac) is a smaller relative of the giant corpse flo
 
 - How big does it get?
   - The small corm will grow to a couple inches tall. Once it uses up all the nutrients in the corm, the growth will stop and it will start storing up for a new corm.
+- Is it stinky?
+  - No, only the flower has a smell.
 - What's this liquid dripping from the leaf tips?
   - It's a process called guttation, which transports water through the plant to keep it rigid and upright. Excess water gets expelled at the leaf tips. This mainly happens at night.
 - When to reduce watering?
